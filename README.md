@@ -14,7 +14,7 @@ I am an undergraduate Software Development Engineering student at the Multidisci
 
 👯 I’m looking forward to collaborate on open source projects and tech communities.
 
-✔ Ask me about anything related to software development or design, I’m happy to help if it's within my area of expertise! 😉<br>
+✔ Ask me about anything related to software development or design, I’m happy to help if it's within my area of learning! 😉<br>
 
 Outside tech, ☕ I love coffee, 🎸 rock music, 🎮 video games, 🖌️ drawing and sketching, and 🏋️‍♂️ exercising.
 ## Check out my Social Media
@@ -24,8 +24,3 @@ Outside tech, ☕ I love coffee, 🎸 rock music, 🎮 video games, 🖌️ draw
 </a>
 
 
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Fergnandogc23100&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Fernandogc23100)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Fernandogc23100&theme=material-palenight)](https://github.com/fernandogc23100)
-</div>
